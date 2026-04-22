@@ -829,6 +829,7 @@ button:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--yellow-d);
   border-bottom: 1px solid var(--border);
   padding: 0.8rem 2rem;
   margin-bottom: 2rem;
+  border-radius: 15px;
 }
 
 .topbar-container {
